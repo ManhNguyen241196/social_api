@@ -1,0 +1,2 @@
+Phần routes này là điịnh nghĩa các tuyến route sẽ trả các data tương ứng để tạo thành mạng lưới API được 
+lấy về từ database

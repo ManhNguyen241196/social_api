@@ -1,0 +1,2 @@
+Thư mục này sẽ chứa các method các hành động tác động tới các routes. Xử lí các dữ liệu để
+đưa lên các route làm đường dẫn để xuất ra API.
